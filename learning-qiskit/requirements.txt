@@ -1,0 +1,32 @@
+# jupyter-server
+# jupyterlab
+# Scrapy
+# Unidecode
+# boto3
+# botocore
+ipykernel
+# joblib
+# jq
+# matplotlib
+# multisetipykernel
+# numpy
+# pandas
+# pandasql
+# pylatexenc
+# pytest
+# pytket
+# pytket-qiskit
+# pytket-quantinuum
+qiskit
+qiskit_ibm_runtime
+# qiskit-aer
+# qiskit-machine-learning
+# scipy
+# seaborn
+# six
+# sklearn
+# sparse
+# tensorflow
+# torch
+# voila
+# wheel
